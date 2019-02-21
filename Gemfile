@@ -3,6 +3,7 @@ source 'http://rubygems.org'
 gem 'activerecord', :require => 'active_record'
 gem 'sinatra-activerecord', :require => 'sinatra/activerecord'
 
+gem 'rb-readline'
 gem 'sinatra'
 gem 'pry-nav'
 gem 'rake'
